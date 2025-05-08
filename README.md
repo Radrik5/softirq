@@ -1,3 +1,5 @@
+[![CMake on multiple platforms](https://github.com/Radrik5/softirq/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/Radrik5/softirq/actions/workflows/cmake-multi-platform.yml)
+
 # Linux Soft IRQ Load Generator
 
 This project generates CPU utilization caused by Soft IRQ on Linux through a C++ client-server application that generates intensive network traffic using non-blocking sockets and busy polling.
